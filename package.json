@@ -39,7 +39,7 @@
     "classnames": "2.2.6",
     "formik": "^2.0.6",
     "immutable": "^4.0.0-rc.12",
-    "moment": "2.24.0",
+    "moment": "2.29.4",
     "node-sass": "^4.11.0",
     "nouislider": "13.1.1",
     "prop-types": "^15.7.2",
