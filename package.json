@@ -43,7 +43,7 @@
     "node-sass": "^4.11.0",
     "nouislider": "13.1.1",
     "prop-types": "^15.7.2",
-    "qs": "^6.9.1",
+    "qs": "^6.9.7",
     "react": "16.8.4",
     "react-chartjs-2": "2.7.4",
     "react-copy-to-clipboard": "5.0.1",
